@@ -1,8 +1,8 @@
-# Project:Movie Talk 
+# Movie Talk 
 
-### Team member:Xinyuan Huang,Chengcheng Hou,Peng Kong
+### Team member: Xinyuan Huang, Chengcheng Hou, Peng Kong
 
-### Version:1.0
+### Version: 1.0
 
 ### Project introduction:  
 
