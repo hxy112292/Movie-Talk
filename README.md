@@ -4,11 +4,11 @@
 
 ### Team members
 
-| name           | Email                       |
-| -------------- | --------------------------- |
-| Xinyuan Huang  | xinyuan.huang@mavs.uta.edu  |
-| Chengcheng Hou | chengcheng.hou@mavs.uta.edu |
-| Peng Kong      | peng.kong@mavs.uta.edu      |
+| name                                           | Email                       |
+| ---------------------------------------------- | --------------------------- |
+| [Xinyuan Huang](https://github.com/hxy112292)  | xinyuan.huang@mavs.uta.edu  |
+| [Chengcheng Hou](https://github.com/housirvip) | chengcheng.hou@mavs.uta.edu |
+| [Peng Kong](https://github.com/kong-p)         | peng.kong@mavs.uta.edu      |
 
 ### Version: 1.0
 
