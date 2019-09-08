@@ -22,7 +22,7 @@ Also when someone may feel boring and want to find a movie to watch which could 
 
 The popular reviewer could be followed by others because of the great review. The followers will be noticed when the star reviewer published a new review.
 
-[Inception(Writen Deliverable)](https://docs.google.com/document/d/17SCSR7hiKepAN9dnnWQ15NdjR8IHFw40Bo-bmti1smw/edit?usp=sharing)
+[Inception(Written Deliverable)](https://docs.google.com/document/d/17SCSR7hiKepAN9dnnWQ15NdjR8IHFw40Bo-bmti1smw/edit?usp=sharing)
 
 [Inception(Presentation)](https://docs.google.com/presentation/d/1hlPQydrPNgnvkMXXBDNVFpjeNVDVQRTS0LWdU0mKr7Y/edit?usp=sharing)
 
