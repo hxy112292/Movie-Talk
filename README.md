@@ -34,8 +34,8 @@ The popular reviewer could be followed by others because of the great review. Th
 
 Web Fronted: [movie-talk-vue](https://github.com/housirvip/movie-talk-vue)
 
-Build based on [Vue](https://vuejs.org/index.html) and [Element UI](https://element.eleme.io/#/en-US)
+> Build based on [Vue](https://vuejs.org/index.html) and [Element UI](https://element.eleme.io/#/en-US)
 
 Web Backend: [movie-talk](https://github.com/housirvip/movie-talk)
 
-Build based on [SpringBoot](https://spring.io/projects/spring-boot)
+> Build based on [SpringBoot](https://spring.io/projects/spring-boot)
