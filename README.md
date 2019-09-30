@@ -30,6 +30,10 @@ The popular reviewer could be followed by others because of the great review. Th
 
 [UI prototype](https://org.modao.cc/app/hzf63bufcgbk08r3gego0lw43h39ee)
 
+[Iteration1(Written Deliverable)](https://docs.google.com/document/d/1J_Jt1tWAspw6GlE_DKLoi-Wd1qytsaesOwPhjzCyjT4/edit#heading=h.2rjeh4cm52r)
+
+[Iteration1(Presentation)](https://docs.google.com/presentation/d/1uVJske0TugAp3dUbsvg7kKTnjGbqL5I5z2W5FcxAyds/edit#slide=id.g64618107ef_14_13)
+
 ### Web App Source Code Repo
 
 Web Fronted: [movie-talk-vue](https://github.com/housirvip/movie-talk-vue)
