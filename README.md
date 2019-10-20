@@ -10,7 +10,7 @@
 | [Chengcheng Hou](https://github.com/housirvip) | chengcheng.hou@mavs.uta.edu |
 | [Peng Kong](https://github.com/kong-p)         | peng.kong@mavs.uta.edu      |
 
-### Version: 1.0
+### Version: 1.2
 
 ### Project introduction
 
@@ -33,6 +33,10 @@ The popular reviewer could be followed by others because of the great review. Th
 [Iteration1(Written Deliverable)](https://docs.google.com/document/d/1J_Jt1tWAspw6GlE_DKLoi-Wd1qytsaesOwPhjzCyjT4/edit#heading=h.2rjeh4cm52r)
 
 [Iteration1(Presentation)](https://docs.google.com/presentation/d/1uVJske0TugAp3dUbsvg7kKTnjGbqL5I5z2W5FcxAyds/edit#slide=id.g64618107ef_14_13)
+
+[Iteration2(Written Deliverable)](https://docs.google.com/document/d/1F9YVO6qywFsB1mOIBzKzAdH2_w4QAs0ZdPzsCMHYruc/edit?usp=sharing)
+
+[Iteration2(Presentation)](https://docs.google.com/presentation/d/1KUlNQXX9NB09tRuz8SrvBD1aI92V6ZoKVrvUJt4PPgs/edit?usp=sharing)
 
 ### Web App Source Code Repo
 
