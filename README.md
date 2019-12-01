@@ -42,6 +42,10 @@ The popular reviewer could be followed by others because of the great review. Th
 
 [Iteration3(Presentation)](https://docs.google.com/presentation/d/1LhxQHEatTWrUe_Gau-r5Ith28Th0-r00hCRdKIcnQqQ/edit?usp=sharing)
 
+[Final(Written Deliverable)](https://docs.google.com/document/d/1Y3NTT0zYIOBdGygyAksa6cwOXM_FzOw51DMsyyc7Ro4/edit?usp=sharing)
+
+[Final(Presentation)](https://docs.google.com/presentation/d/1xq-sIfUj-y-hRqrAbDLQXcDnluWOVFV6fNR1c5mDboU/edit?usp=sharing)
+
 ### Web App Source Code Repo
 
 Web Fronted: [movie-talk-vue](https://github.com/housirvip/movie-talk-vue)
