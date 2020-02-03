@@ -1,15 +1,5 @@
 # Movie Talk
 
-## 2198-CSE-5324-002 Team8 project
-
-### Team members
-
-| name                                           | Email                       |
-| ---------------------------------------------- | --------------------------- |
-| [Xinyuan Huang](https://github.com/hxy112292)  | xinyuan.huang@mavs.uta.edu  |
-| [Chengcheng Hou](https://github.com/housirvip) | chengcheng.hou@mavs.uta.edu |
-| [Peng Kong](https://github.com/kong-p)         | peng.kong@mavs.uta.edu      |
-
 ### Version: 1.2
 
 ### Project introduction
