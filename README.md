@@ -12,30 +12,6 @@ Also when someone may feel boring and want to find a movie to watch which could 
 
 The popular reviewer could be followed by others because of the great review. The followers will be noticed when the star reviewer published a new review.
 
-### DOCS
-
-[Inception(Written Deliverable)](https://docs.google.com/document/d/17SCSR7hiKepAN9dnnWQ15NdjR8IHFw40Bo-bmti1smw/edit?usp=sharing)
-
-[Inception(Presentation)](https://docs.google.com/presentation/d/1hlPQydrPNgnvkMXXBDNVFpjeNVDVQRTS0LWdU0mKr7Y/edit?usp=sharing)
-
-[UI prototype](https://org.modao.cc/app/hzf63bufcgbk08r3gego0lw43h39ee)
-
-[Iteration1(Written Deliverable)](https://docs.google.com/document/d/1J_Jt1tWAspw6GlE_DKLoi-Wd1qytsaesOwPhjzCyjT4/edit#heading=h.2rjeh4cm52r)
-
-[Iteration1(Presentation)](https://docs.google.com/presentation/d/1uVJske0TugAp3dUbsvg7kKTnjGbqL5I5z2W5FcxAyds/edit#slide=id.g64618107ef_14_13)
-
-[Iteration2(Written Deliverable)](https://docs.google.com/document/d/1F9YVO6qywFsB1mOIBzKzAdH2_w4QAs0ZdPzsCMHYruc/edit?usp=sharing)
-
-[Iteration2(Presentation)](https://docs.google.com/presentation/d/1KUlNQXX9NB09tRuz8SrvBD1aI92V6ZoKVrvUJt4PPgs/edit?usp=sharing)
-
-[Iteration3(Written Deliverable)](https://docs.google.com/document/d/1pJxfVVvKTwOncsZWVDyLrjrprSUX3inZZphHxPfXpaw/edit?usp=sharing)
-
-[Iteration3(Presentation)](https://docs.google.com/presentation/d/1LhxQHEatTWrUe_Gau-r5Ith28Th0-r00hCRdKIcnQqQ/edit?usp=sharing)
-
-[Final(Written Deliverable)](https://docs.google.com/document/d/1Y3NTT0zYIOBdGygyAksa6cwOXM_FzOw51DMsyyc7Ro4/edit?usp=sharing)
-
-[Final(Presentation)](https://docs.google.com/presentation/d/1xq-sIfUj-y-hRqrAbDLQXcDnluWOVFV6fNR1c5mDboU/edit?usp=sharing)
-
 ### Web App Source Code Repo
 
 Web Fronted: [movie-talk-vue](https://github.com/housirvip/movie-talk-vue)
